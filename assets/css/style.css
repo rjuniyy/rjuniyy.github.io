@@ -371,7 +371,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #45505b;
+  color: #fff;
 }
 
 .section-title h2::before {
@@ -946,8 +946,8 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 150px;
-  border-radius: 25%;
+  width: 200px;
+  border-radius: 50%;
   border: 4px solid #fff;
   margin: 0 auto;
 }
