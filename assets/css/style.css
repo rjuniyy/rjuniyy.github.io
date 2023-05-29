@@ -946,8 +946,8 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 120px;
-  border-radius: 50%;
+  width: 150px;
+  border-radius: 25%;
   border: 4px solid #fff;
   margin: 0 auto;
 }
