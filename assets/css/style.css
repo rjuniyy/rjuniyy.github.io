@@ -77,9 +77,10 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #0A192F;
+  background: #fff;
 }
 
+/* #0A192F; */
 #preloader:before {
   content: "";
   position: fixed;
@@ -130,7 +131,7 @@ h6 {
 @media (max-width: 991px) {
   #header {
     width: 300px;
-    background: #fff;
+    background: #0A192F;;
     border-right: 1px solid #e6e9ec;
     left: -300px;
   }
